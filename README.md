@@ -2,7 +2,7 @@
 
 OPF is an open-directory file format containing a text and its annotations in an easy to parse, metadata and optionally the source of the text. 
 
-Metadata structure in OpenPecha follows BibFrame2.
+Metadata structure in OpenPecha follows [BibFrame2](https://www.loc.gov/bibframe/docs/bibframe2-model.html).
 Annotations follow TEI.
 
 There are two types of .opf documents, the Work files and the Pecha files. Works correspond to the works in the BibFrame2 framework, and the Pechas correspond to its Instances. A Work can have multiple instances.
